@@ -1,0 +1,4 @@
+CHIP8 Emulator
+==============
+
+This is a simple CHIP8 emulator. Uses GLFW and GLEW for window creation and rendering.
